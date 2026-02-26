@@ -1,6 +1,1 @@
 # ElfOnShelf
-
-</script>
-
-</body>
-</html>
