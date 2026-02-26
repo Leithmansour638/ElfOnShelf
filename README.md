@@ -1,8 +1,5 @@
 # ElfOnShelf
 
-  </div>
-
-  <div>
     <button onclick="append('1')">1</button>
     <button onclick="append('2')">2</button>
     <button onclick="append('3')">3</button>
