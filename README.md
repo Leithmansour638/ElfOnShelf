@@ -1,6 +1,5 @@
 # ElfOnShelf
 
-    } catch {
       display.value = "Error";
     }
   }
