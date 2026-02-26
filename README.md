@@ -1,5 +1,4 @@
 # ElfOnShelf
-      cursor: pointer;
     }
   </style>
 </head>
