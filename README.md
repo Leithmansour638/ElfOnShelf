@@ -1,5 +1,4 @@
 # ElfOnShelf
-</head>
 <body>
 
 <div class="calculator">
