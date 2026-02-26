@@ -1,6 +1,5 @@
 # ElfOnShelf
 
-      display.value = "Error";
     }
   }
 </script>
