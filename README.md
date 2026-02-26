@@ -1,7 +1,5 @@
 # ElfOnShelf
 
-    display.value += value;
-  }
 
   function clearDisplay() {
     display.value = "";
