@@ -1,5 +1,4 @@
 # ElfOnShelf
-  </style>
 </head>
 <body>
 
