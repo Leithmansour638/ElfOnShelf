@@ -1,5 +1,4 @@
 # ElfOnShelf
-<head>
   <meta charset="UTF-8">
   <title>Simple Calculator</title>
   <style>
