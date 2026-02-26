@@ -1,5 +1,4 @@
 # ElfOnShelf
-      background: white;
       padding: 20px;
       border-radius: 10px;
       width: 220px;
