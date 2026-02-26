@@ -1,5 +1,4 @@
 # ElfOnShelf
-      align-items: center;
       height: 100vh;
       background: #f4f4f4;
     }
