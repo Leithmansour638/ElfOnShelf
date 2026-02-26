@@ -1,6 +1,5 @@
 # ElfOnShelf
 
-    <button onclick="append('/')">÷</button>
     <button onclick="append('*')">×</button>
     <button onclick="append('-')">−</button>
   </div>
