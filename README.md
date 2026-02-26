@@ -1,6 +1,5 @@
 # ElfOnShelf
 
-    <button onclick="append('5')">5</button>
     <button onclick="append('6')">6</button>
     <button onclick="calculate()">=</button>
   </div>
