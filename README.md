@@ -1,7 +1,5 @@
 # ElfOnShelf
 
-    }
-  }
 </script>
 
 </body>
