@@ -1,5 +1,4 @@
 # ElfOnShelf
-<div class="calculator">
   <input type="text" id="display" disabled>
 
   <div>
