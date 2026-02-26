@@ -1,6 +1,5 @@
 # ElfOnShelf
   
-      width: 100%;
       height: 40px;
       margin-bottom: 10px;
       text-align: right;
