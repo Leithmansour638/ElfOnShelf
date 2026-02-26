@@ -1,7 +1,5 @@
 # ElfOnShelf
 
-  </div>
-</div>
 
 <script>
   const display = document.getElementById("display");
