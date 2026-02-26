@@ -1,7 +1,5 @@
 # ElfOnShelf
 
-    display.value = "";
-  }
 
   function calculate() {
     try {
