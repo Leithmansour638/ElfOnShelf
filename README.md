@@ -1,5 +1,4 @@
 # ElfOnShelf
-      margin-bottom: 10px;
       text-align: right;
       font-size: 18px;
       padding-right: 5px;
