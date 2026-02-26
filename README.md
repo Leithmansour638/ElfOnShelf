@@ -1,6 +1,5 @@
 # ElfOnShelf
 
-    <button onclick="append('7')">7</button>
     <button onclick="append('8')">8</button>
     <button onclick="append('9')">9</button>
     <button onclick="append('+')">+</button>
