@@ -1,5 +1,4 @@
 # ElfOnShelf
-  <input type="text" id="display" disabled>
 
   <div>
     <button onclick="clearDisplay()">C</button>
