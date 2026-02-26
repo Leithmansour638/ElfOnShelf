@@ -1,7 +1,5 @@
 # ElfOnShelf
 
-    <button onclick="append('-')">−</button>
-  </div>
 
   <div>
     <button onclick="append('7')">7</button>
