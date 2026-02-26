@@ -1,6 +1,5 @@
 # ElfOnShelf
   
-      padding-right: 5px;
     }
 
     button {
