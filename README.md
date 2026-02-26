@@ -1,5 +1,4 @@
 # ElfOnShelf
-      font-size: 18px;
       padding-right: 5px;
     }
 
