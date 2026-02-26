@@ -1,5 +1,4 @@
 # ElfOnShelf
-      height: 48px;
       margin: 2px;
       font-size: 16px;
       cursor: pointer;
