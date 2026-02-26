@@ -1,5 +1,4 @@
 # ElfOnShelf
-  <title>Simple Calculator</title>
   <style>
     body {
       font-family: Arial, sans-serif;
