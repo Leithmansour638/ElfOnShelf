@@ -1,5 +1,4 @@
 # ElfOnShelf
-      background: #f4f4f4;
     }
 
     .calculator {
