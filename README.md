@@ -1,7 +1,5 @@
 # ElfOnShelf
 
-
-  function append(value) {
     display.value += value;
   }
 
