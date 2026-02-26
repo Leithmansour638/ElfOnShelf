@@ -1,7 +1,5 @@
 # ElfOnShelf
 
-
-<script>
   const display = document.getElementById("display");
 
   function append(value) {
